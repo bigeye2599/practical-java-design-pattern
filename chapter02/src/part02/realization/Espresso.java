@@ -1,22 +1,26 @@
-package section01_»ó¼Ó_generalization;
+package part02.realization;
 
-public class Coffee {
+public class Espresso implements ICoffee {
 
-	private String name = "Coffee";
+	private String name = "Espresso";
 	
-	public Coffee() {
+	public Espresso() {
 		super();
 	}
 	
+	@Override
 	public String getName() {
 		return name;
 	}
-	
+
+	@Override
 	public void setName(String name) {
 		this.name = name;
 	}
-	
+
+	@Override
 	public void display() {
 		System.out.println(this.name);
 	}
+
 }

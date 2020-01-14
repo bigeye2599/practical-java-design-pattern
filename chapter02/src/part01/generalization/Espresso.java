@@ -1,4 +1,4 @@
-package section01_»ó¼Ó_generalization;
+package part01.generalization;
 
 public class Espresso extends Coffee {
 

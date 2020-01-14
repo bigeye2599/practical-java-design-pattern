@@ -1,4 +1,4 @@
-package section02_±¸Çö_realization;
+package part02.realization;
 
 public interface ICoffee {
 	
