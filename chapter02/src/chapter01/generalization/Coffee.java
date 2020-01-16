@@ -1,4 +1,4 @@
-package part01.generalization;
+package chapter01.generalization;
 
 public class Coffee {
 

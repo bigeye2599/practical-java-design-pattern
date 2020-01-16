@@ -1,4 +1,4 @@
-package part02.realization;
+package chapter02.realization;
 
 public class Espresso implements ICoffee {
 
